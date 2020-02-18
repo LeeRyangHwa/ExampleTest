@@ -1,6 +1,6 @@
 package Example;
 
-public class test {
+public class Delivery_test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -43,7 +43,7 @@ public class test {
 					x = n;
 				}
 			}
-			
+			 
 			
 		}
 		
